@@ -73,23 +73,26 @@ A full-stack fitness and gym management platform designed for **Users, Trainers 
 
 ---
 
-### 📚 BookHaven — Online Book Platform
+### 🩺 Doc Appointment — Doctor Appointment Platform
 
-A modern web application focused on browsing and managing books through a clean and responsive interface.
+A web application designed to make doctor appointment booking easier and more convenient for patients.
 
 #### ✨ Highlights
 
-* 📚 Book browsing
-* 🔍 Search functionality
-* 📱 Responsive user interface
-* 🎨 Modern frontend design
-* ⚡ Interactive user experience
+* 👨‍⚕️ Browse doctors and available services
+* 🔎 Search and explore doctors
+* 📅 Appointment booking functionality
+* 👤 User authentication
+* 📊 User dashboard
+* 🔌 REST API integration
+* 📱 Responsive and user-friendly interface
 
 **Tech Stack:**
-`React.js` `Next.js` `JavaScript` `Tailwind CSS`
+`React.js` `Next.js` `JavaScript` `Tailwind CSS` `Node.js` `Express.js` `MongoDB`
 
-🔗 **GitHub:** [GitHub Repository](https://github.com/FahmidaAkterShimu/BookHaven)
-🌐 **Live:** [Live Link](https://book-haven-project.vercel.app)
+🔗 **Client:** [GitHub Repository](http://github.com/FahmidaAkterShimu/doc_appoint-client)
+🔗 **Server:** [GitHub Repository](http://github.com/FahmidaAkterShimu/doc_appoint-server)
+🌐 **Live:** [Live Link](https://doc-appoint-client-chi.vercel.app)
 
 ---
 
@@ -173,10 +176,10 @@ I'm especially interested in opportunities where I can work with **React.js, Nex
   <a href="https://github.com/FahmidaAkterShimu">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="http://linkedin.com/in/fahmida-akter-shimu">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="fahmidaaktershimu@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
