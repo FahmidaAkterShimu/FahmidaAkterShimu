@@ -179,7 +179,7 @@ I'm especially interested in opportunities where I can work with **React.js, Nex
   <a href="http://linkedin.com/in/fahmida-akter-shimu">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="fahmidaaktershimu@gmail.com">
+  <a href="mailto:fahmidaaktershimu@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
