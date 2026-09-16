@@ -113,6 +113,6 @@ I'm currently open to opportunities where I can:
 
 <div align="center">
 
-### ✨ Building, learning, and growing — one project at a time.
+### ✨ Building, learning, and growing.
 
 </div>
