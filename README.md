@@ -2,7 +2,7 @@
 
 # Hi, I'm Fahmida Akter Shimu 👋
 
-<img src="https://readme-typing-svg.demolab.com/?font=DM+Sans&weight=500&size=24&pause=1200&color=FF6900&center=true&vCenter=true&width=750&height=50&lines=Aspiring+Frontend+Developer;JavaScript+%7C+React.js+%7C+Next.js+%7C+HTML5+%7C+CSS3+%7C+TailwindCSS;Building+clean+and+user-focused+web+experiences;Always+learning%2C+building%2C+and+improving" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=DM+Sans&weight=500&size=24&pause=1200&color=FF6900&center=true&vCenter=true&width=750&height=50&lines=Aspiring+Frontend+Developer;JavaScript+%7C+React.js+%7C+Next.js+%7C+HTML5+%7C+TailwindCSS+%7C+Node.js;Building+clean+and+user-focused+web+experiences;Always+learning%2C+building%2C+and+improving" alt="Typing SVG" />
 
 </div>
 
