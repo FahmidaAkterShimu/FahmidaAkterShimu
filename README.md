@@ -1,191 +1,122 @@
-# 👋 Hi, I'm Fahmida Akter Shimu
+<div align="center">
 
-### 💻 Junior Frontend Developer | React.js | Next.js
+# Hi, I'm Fahmida Akter Shimu 👋
 
-I’m a **Computer Science & Engineering graduate** passionate about building modern, responsive, and user-friendly web applications.
+<img src="https://readme-typing-svg.demolab.com/?font=DM+Sans&weight=500&size=24&pause=1200&color=FF6900&center=true&vCenter=true&width=750&height=50&lines=Aspiring+Frontend+Developer;JavaScript+%7C+React+%7C+Next.js;Building+clean+and+user-focused+web+experiences;Always+learning%2C+building%2C+and+improving" alt="Typing SVG" />
 
-I enjoy transforming ideas and designs into functional web experiences with clean and maintainable code. I'm currently looking for opportunities to **start my professional journey as a Junior Frontend Developer**, contribute to real-world projects, and continuously grow my skills.
+<br/>
 
----
+<a href="https://github.com/FahmidaAkterShimu">
+  <img src="https://komarev.com/ghpvc/?username=FahmidaAkterShimu&label=Profile%20Views&color=ff6900&style=flat" alt="Profile views" />
+</a>
 
-## 🚀 About Me
-
-* 🎓 B.Sc. in Computer Science & Engineering
-* 💻 Focused on **Frontend Development**
-* ⚛️ Building web applications with **React.js & Next.js**
-* 🎨 Passionate about responsive UI and user-friendly experiences
-* 🔌 Experience integrating REST APIs
-* 🔐 Familiar with authentication, authorization and role-based access control
-* 🗄️ Comfortable working with MongoDB and backend APIs
-* 🌱 Currently improving my JavaScript, React and Next.js skills
-* 💼 Open to **Junior Frontend Developer & Internship opportunities**
+</div>
 
 ---
 
-## 🛠️ Technologies & Tools
+## 👩‍💻 About Me
+
+I'm a **Computer Science & Engineering graduate** and an aspiring **Frontend Developer** who enjoys turning ideas into clean, responsive, and user-friendly web applications.
+
+I like understanding how things work, solving problems through code, and continuously improving the way I build for the web.
+
+I'm currently looking for **Junior Frontend Developer / Software Developer opportunities** where I can contribute to real-world projects, learn from a team, and grow as a developer.
+
+* 🌱 Currently improving my **JavaScript, React & Next.js** skills
+* 💻 Building full-stack projects to strengthen my frontend and backend knowledge
+* 🔍 Interested in **clean UI, responsive design, APIs, authentication & real-world applications**
+* 🚀 Always learning something new and turning what I learn into projects
+
+---
+
+## 🛠️ Tech Stack
 
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" alt="Frontend technologies" />
 </p>
 
 ### Backend & Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend technologies" />
 </p>
 
-### Tools
+### Tools & Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman" alt="Tools and technologies" />
 </p>
 
 ---
 
-## 🌟 Featured Projects
+## 🚀 Featured Projects
 
-### 🏋️ VitaForge — Fitness & Gym Management Platform
+### 🩺 Doc Appoint
 
-A full-stack fitness and gym management platform designed for **Users, Trainers and Administrators**.
+A doctor appointment and healthcare management platform designed to make appointment booking and management easier for patients and doctors.
 
-#### ✨ Highlights
+**Tech:** React.js • Node.js • Express.js • MongoDB
 
-* 🔐 Authentication & role-based authorization
-* 👤 User management
-* 🏋️ Trainer application and approval system
-* 📚 Trainer class management
-* 🔎 Class search and filtering
-* 📄 Server-side pagination
-* 📅 Class booking functionality
-* 💳 Payment integration
-* 💬 Community/forum system
-* 📊 Admin and trainer dashboards
-* 📱 Responsive design
-
-**Tech Stack:**
-`React.js` `Next.js` `JavaScript` `Tailwind CSS` `HeroUI` `Node.js` `Express.js` `MongoDB`
-
-🔗 **Client:** [GitHub Repository](https://github.com/FahmidaAkterShimu/vitaforge-client)
-🔗 **Server:** [GitHub Repository](https://github.com/FahmidaAkterShimu/vitaforge-server)
-🌐 **Live:** [Live Link](https://vitaforge-client.vercel.app)
+🔗 **Live:** [Doc Appoint](https://doc-appoint-client-chi.vercel.app)
 
 ---
 
-### 🩺 Doc Appointment — Doctor Appointment Platform
+### 📚 BookHaven
 
-A web application designed to make doctor appointment booking easier and more convenient for patients.
+An online book management and browsing platform built to provide a simple and user-friendly experience for discovering and managing books.
 
-#### ✨ Highlights
+**Tech:** React.js • Node.js • Express.js • MongoDB
 
-* 👨‍⚕️ Browse doctors and available services
-* 🔎 Search and explore doctors
-* 📅 Appointment booking functionality
-* 👤 User authentication
-* 📊 User dashboard
-* 🔌 REST API integration
-* 📱 Responsive and user-friendly interface
-
-**Tech Stack:**
-`React.js` `Next.js` `JavaScript` `Tailwind CSS` `Node.js` `Express.js` `MongoDB`
-
-🔗 **Client:** [GitHub Repository](http://github.com/FahmidaAkterShimu/doc_appoint-client)
-🔗 **Server:** [GitHub Repository](http://github.com/FahmidaAkterShimu/doc_appoint-server)
-🌐 **Live:** [Live Link](https://doc-appoint-client-chi.vercel.app)
+🔗 **Live:** [BookHaven](https://book-haven-project.vercel.app)
 
 ---
 
-### 📊 Pizza Sales Analysis Dashboard
+### 💪 VitaForge
 
-A data analytics project created to explore pizza sales data and generate meaningful business insights.
+A fitness and gym management platform featuring role-based dashboards, class management, trainer applications, bookings, community features, authentication, and payment functionality.
 
-#### ✨ Highlights
+**Tech:** Next.js • JavaScript • Tailwind CSS • Express.js • MongoDB • Better Auth • Stripe
 
-* 📈 Sales performance analysis
-* 💰 Revenue analysis
-* 🍕 Product/category insights
-* 📊 Interactive dashboard
-* 📌 Business KPI analysis
+🔗 **Client:** [VitaForge Client](https://github.com/FahmidaAkterShimu/vitaforge-client)
 
-**Tools:**
-`SQL` `Power BI` `Python`
+🔗 **Server:** [VitaForge Server](https://github.com/FahmidaAkterShimu/vitaforge-server)
 
 ---
 
-## 📌 Other Skills
+## 📌 What I'm Looking For
 
-### Programming & Development
+I'm currently open to opportunities where I can:
 
-* JavaScript
-* React.js
-* Next.js
-* HTML5
-* CSS3
-* Tailwind CSS
-* REST APIs
+* Build and improve real-world web applications
+* Work with experienced developers
+* Strengthen my frontend development skills
+* Learn modern development practices
+* Contribute to a collaborative team
 
-### Backend
-
-* Node.js
-* Express.js
-* MongoDB
-
-### Development Practices
-
-* Git & GitHub
-* Responsive Web Design
-* API Integration
-* Authentication & Authorization
-* Role-Based Access Control
-* Component-Based Development
+**Open to:** Junior Frontend Developer • Junior Software Developer • Frontend Intern • Full-Stack Intern
 
 ---
 
-## 🎯 Currently Learning
+## 🤝 Let's Connect
 
-```text
-JavaScript          ████████████████████░░
-React.js            ███████████████████░░░
-Next.js             ██████████████████░░░░
-Tailwind CSS        ███████████████████░░░
-REST API            █████████████████░░░░░
-Full-Stack Concepts ███████████████░░░░░░░
-```
+<div align="center">
 
-> I'm continuously learning and improving through projects and hands-on practice.
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 
----
+<a href="https://github.com/FahmidaAkterShimu">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
 
-## 💼 Open To Opportunities
+</div>
 
-I'm currently interested in:
+<br/>
 
-* 👨‍💻 Junior Frontend Developer
-* 🌱 Frontend Developer Internship
-* 🚀 Entry-Level Web Development Roles
-* 🤝 Collaborative Open-Source & Web Projects
+<div align="center">
 
-I'm especially interested in opportunities where I can work with **React.js, Next.js and modern frontend technologies** while learning from an experienced development team.
+### ✨ Building, learning, and growing — one project at a time.
 
----
-
-## 📫 Let's Connect
-
-<p align="left">
-  <a href="https://github.com/FahmidaAkterShimu">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="http://linkedin.com/in/fahmida-akter-shimu">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:fahmidaaktershimu@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-### ✨ Keep Learning. Keep Building. Keep Growing.
-
-Thanks for visiting my profile! ⭐
+</div>
