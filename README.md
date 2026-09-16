@@ -2,13 +2,7 @@
 
 # Hi, I'm Fahmida Akter Shimu 👋
 
-<img src="https://readme-typing-svg.demolab.com/?font=DM+Sans&weight=500&size=24&pause=1200&color=FF6900&center=true&vCenter=true&width=750&height=50&lines=Aspiring+Frontend+Developer;JavaScript+%7C+React+%7C+Next.js;Building+clean+and+user-focused+web+experiences;Always+learning%2C+building%2C+and+improving" alt="Typing SVG" />
-
-<br/>
-
-<a href="https://github.com/FahmidaAkterShimu">
-  <img src="https://komarev.com/ghpvc/?username=FahmidaAkterShimu&label=Profile%20Views&color=ff6900&style=flat" alt="Profile views" />
-</a>
+<img src="https://readme-typing-svg.demolab.com/?font=DM+Sans&weight=500&size=24&pause=1200&color=FF6900&center=true&vCenter=true&width=750&height=50&lines=Aspiring+Frontend+Developer;JavaScript+%7C+React.js+%7C+Next.js+%7C+HTML5+%7C+CSS3+%7C+TailwindCSS;Building+clean+and+user-focused+web+experiences;Always+learning%2C+building%2C+and+improving" alt="Typing SVG" />
 
 </div>
 
@@ -53,6 +47,20 @@ I'm currently looking for **Junior Frontend Developer / Software Developer oppor
 
 ## 🚀 Featured Projects
 
+### 💪 VitaForge
+
+A fitness and gym management platform featuring role-based dashboards, class management, trainer applications, bookings, community features, authentication, and payment functionality.
+
+**Tech:** Next.js • JavaScript • Tailwind CSS • Express.js • MongoDB • Better Auth • Stripe
+
+🔗 **Live:** [VitaForge](https://vitaforge-client.vercel.app)
+
+🔗 **Client:** [VitaForge Client](https://github.com/FahmidaAkterShimu/vitaforge-client)
+
+🔗 **Server:** [VitaForge Server](https://github.com/FahmidaAkterShimu/vitaforge-server)
+
+---
+
 ### 🩺 Doc Appoint
 
 A doctor appointment and healthcare management platform designed to make appointment booking and management easier for patients and doctors.
@@ -70,18 +78,6 @@ An online book management and browsing platform built to provide a simple and us
 **Tech:** React.js • Node.js • Express.js • MongoDB
 
 🔗 **Live:** [BookHaven](https://book-haven-project.vercel.app)
-
----
-
-### 💪 VitaForge
-
-A fitness and gym management platform featuring role-based dashboards, class management, trainer applications, bookings, community features, authentication, and payment functionality.
-
-**Tech:** Next.js • JavaScript • Tailwind CSS • Express.js • MongoDB • Better Auth • Stripe
-
-🔗 **Client:** [VitaForge Client](https://github.com/FahmidaAkterShimu/vitaforge-client)
-
-🔗 **Server:** [VitaForge Server](https://github.com/FahmidaAkterShimu/vitaforge-server)
 
 ---
 
@@ -103,7 +99,7 @@ I'm currently open to opportunities where I can:
 
 <div align="center">
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/fahmida-akter-shimu">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
