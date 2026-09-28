@@ -40,7 +40,7 @@ I'm currently looking for **Junior Frontend Developer / Software Developer oppor
 ### Tools & Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman" alt="Tools and technologies" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" alt="Tools and technologies" />
 </p>
 
 ---
