@@ -67,7 +67,7 @@ A doctor appointment and healthcare management platform designed to make appoint
 
 **Tech:** React.js • Node.js • Express.js • MongoDB
 
-🔗 **Live:** [Doc Appoint](https://doc-appoint-client-chi.vercel.app)
+🔗 **Live:** [DocAppoint](https://doc-appoint-client-chi.vercel.app)
 
 ---
 
