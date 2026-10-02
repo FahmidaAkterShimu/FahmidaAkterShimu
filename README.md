@@ -61,7 +61,7 @@ A fitness and gym management platform featuring role-based dashboards, class man
 
 ---
 
-### 🩺 Doc Appoint
+### 🩺 DocAppoint
 
 A doctor appointment and healthcare management platform designed to make appointment booking and management easier for patients and doctors.
 
